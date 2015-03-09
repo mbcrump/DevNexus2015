@@ -1,6 +1,7 @@
 ## DevNexus 2015
 
-##10 Tips and Tricks to Becoming a Better (Mobile) Developer - Just Slides
+##10 Tips and Tricks to Becoming a Better (Mobile) Developer
+[Slides](https://speakerdeck.com/mbcrump/)
 
 ##Intro to Swift for iOS
 [Slides](https://speakerdeck.com/mbcrump/intro-to-swift-for-ios)
